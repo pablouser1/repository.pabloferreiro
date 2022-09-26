@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.pabloferreiro" name="Pablo F. Repository" version="1.0.0" provider-name="pablouser1">
+<addon id="repository.pabloferreiro" name="Pablo F. Repository" version="1.0.1" provider-name="pablouser1">
 	<extension point="xbmc.addon.repository" name="Pablo F. Repository">
         <dir>
           <info compressed="true">https://kodi.pabloferreiro.es/addons.xml.gz</info>
