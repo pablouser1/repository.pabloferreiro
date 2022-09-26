@@ -13,7 +13,7 @@
 		<description>Pablo Ferreiro repository</description>
 		<platform>all</platform>
 		<assets>
-			<icon>icon.jpg</icon>
+			<icon>icon.png</icon>
 		</assets>
 	</extension>
 </addon>
