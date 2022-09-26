@@ -5,7 +5,7 @@
           <info compressed="true">https://kodi.pabloferreiro.es/addons.xml.gz</info>
           <checksum>https://kodi.pabloferreiro.es/addons.xml.gz.md5</checksum>
           <datadir zip="true">https://kodi.pabloferreiro.es/</datadir>
-          <hashes>sha256</hashes>
+          <hashes>md5</hashes>
         </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
