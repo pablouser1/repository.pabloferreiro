@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.pabloferreiro" name="Pablo F. Repository" version="1.2.0" provider-name="pablouser1">
+<addon id="repository.pabloferreiro" name="Pablo F. Repository" version="1.3.0" provider-name="pablouser1">
 	<extension point="xbmc.addon.repository" name="Pablo F. Repository">
         <dir minversion="19.0.0">
           <info>https://kodi.pabloferreiro.es/addons.xml</info>
-          <checksum>https://kodi.pabloferreiro.es/addons.xml.sha256</checksum>
+          <checksum>https://kodi.pabloferreiro.es/addons.xml.md5</checksum>
           <datadir>https://kodi.pabloferreiro.es/</datadir>
-          <hashes>sha256</hashes>
+          <hashes>md5</hashes>
         </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
