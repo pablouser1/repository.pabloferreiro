@@ -4,4 +4,4 @@ This my Kodi repository used for hosting the following projects:
 - plugin.video.stardeos (https://github.com/pablouser1/plugin.video.stardeos)
 
 ## Installation
-Download [this](https://kodi.pabloferreiro.es/repository.pabloferreiro/repository.pabloferreiro-1.1.0.zip) zip file and install it using Kodi
+Download [this](https://kodi.pabloferreiro.es/repository.pabloferreiro/repository.pabloferreiro-1.2.0.zip) zip file and install it using Kodi
